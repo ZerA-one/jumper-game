@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - GameMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4209775949
+    locked: 0
+  - name: DecoBackground
+    uniqueID: 382455991
+    locked: 0
+  - name: Decorations
+    uniqueID: 356436249
+    locked: 0
+  - name: Items
+    uniqueID: 1941952615
+    locked: 0
+  - name: Enemies
+    uniqueID: 3979824159
+    locked: 0
+  - name: Foreground
+    uniqueID: 2586831315
+    locked: 0
+  - name: ForegroundDecoration
+    uniqueID: 930495797
+    locked: 0
